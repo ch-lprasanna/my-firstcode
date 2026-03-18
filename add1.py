@@ -1,0 +1,11 @@
+Python 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> print(10+10)
+20
+>>> print(5-3)
+2
+>>> print(4*9)
+36
+>>> print("Hello python")
+Hello python
+

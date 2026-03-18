@@ -1,0 +1,5 @@
+print(10+10)
+print(20-10)
+print(2*8)
+print("hello prasanna")
+print(2/4)
